@@ -15,4 +15,4 @@ ADD public/jquery.min.js /app/public/jquery.min.js
 
 WORKDIR /app
 CMD ["./guestbook"]
-EXPOSE 3000
+EXPOSE 8000
